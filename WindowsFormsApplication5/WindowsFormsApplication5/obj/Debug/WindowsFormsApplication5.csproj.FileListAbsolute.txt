@@ -1,0 +1,20 @@
+c:\users\750373\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\750373\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\750373\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\750373\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\750373\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\750373\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+c:\users\750373\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\750373\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\750373\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FoglioCartaMillimetrata.resources
+C:\ARCHIVIO\Programmazione\CS_Plinio\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\ARCHIVIO\Programmazione\CS_Plinio\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\ARCHIVIO\Programmazione\CS_Plinio\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\ARCHIVIO\Programmazione\CS_Plinio\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.AssemblyReference.cache
+C:\ARCHIVIO\Programmazione\CS_Plinio\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.SuggestedBindingRedirects.cache
+C:\ARCHIVIO\Programmazione\CS_Plinio\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FoglioCartaMillimetrata.resources
+C:\ARCHIVIO\Programmazione\CS_Plinio\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\ARCHIVIO\Programmazione\CS_Plinio\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.cache
+C:\ARCHIVIO\Programmazione\CS_Plinio\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.CoreCompileInputs.cache
+C:\ARCHIVIO\Programmazione\CS_Plinio\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\ARCHIVIO\Programmazione\CS_Plinio\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
